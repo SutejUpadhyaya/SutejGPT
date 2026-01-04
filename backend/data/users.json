@@ -1,0 +1,15 @@
+[
+  {
+    "id": "da770efb-2dfb-4fae-a9e2-15d8328859f6",
+    "email": "dev@test.com",
+    "passwordHash": "$2b$10$LcA6QHpT6axQkpzH1XmChuOZjNIQkPKjkiRS2r8qCygbWCCXjONw2",
+    "createdAt": "2026-01-03T23:19:29.330Z"
+  },
+  {
+    "id": "e1a4a1c8-3a09-4f57-9a1b-82d9f2095f7c",
+    "email": "sutejupadhyaya@gmail.com",
+    "passwordHash": "$2b$10$8E5.YObpjAz/B55Bm03CGeWXx9GmVs1I7E.y/OLWgoTU8ErGTrW12",
+    "isAdmin": false,
+    "createdAt": "2026-01-04T00:27:54.122Z"
+  }
+]

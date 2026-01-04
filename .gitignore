@@ -1,0 +1,10 @@
+# env files
+.env
+*/.env
+
+# node modules
+node_modules/
+backend/node_modules/
+
+# macOS junk
+.DS_Store
