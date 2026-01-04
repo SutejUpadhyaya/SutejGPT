@@ -23,6 +23,10 @@ app.use("/auth", authRoutes);
 app.use("/interpret", interpretRoute);
 app.use("/ask", askRoute);
 
+app.get("/", (req, res) => {
+  res.status(200).send("SutejGPT backend is running ✅");
+});
+
 const PORT = process.env.PORT || 3001;
 app.listen(PORT, () => {
   console.log(`SutejGPT backend running on port ${PORT}`);
