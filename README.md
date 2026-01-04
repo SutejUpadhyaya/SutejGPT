@@ -199,4 +199,4 @@ Actively developed.
 
 SutejGPT is a portfolio-quality LLM system focused on backend architecture, access control, identity management, and intentional personalization. Planned improvements include stronger identity influence tuning, database-backed persistence, UI enhancements, and additional integration surfaces.
 
-![SutejGPT Screenshot](SutejGPT/Screenshot%202026-01-03%20at%209.37.17%E2%80%AFPM.png)
+![SutejGPT Screenshot](./sutejGPT-screenshot.png)
